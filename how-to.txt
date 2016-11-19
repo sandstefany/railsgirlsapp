@@ -1,0 +1,11 @@
+How to
+
+En la terminal, navega hacia el directorio que quieres (con cd). 
+Crea si quieres un nuevo directorio (mkdir)
+
+Luego ejecuta este comando git clone https://github.com/sandstefany/railsgirlsapp.git
+Esto te copia en tu maquina el repositorio
+
+Para trabajar con git, mira este tutorial;
+
+https://git-scm.com/book/it/v2/Git-Basics-Getting-a-Git-Repository
